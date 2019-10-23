@@ -1,2 +1,2 @@
 # BomSms
-Bom Sms Telkomsel
+Bom Sms Telkomsel!
